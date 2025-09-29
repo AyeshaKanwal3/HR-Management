@@ -54,29 +54,6 @@ git clone https://github.com/yourname/hr-management-system.git
 cd hr-management-system
 
 
-Install dependencies:
-
-npm install
-
-
-Run locally:
-
-npm run dev
-
-
-Build for production:
-
-npm run build
-
-
-Deploy to Vercel:
-
-Import repo on vercel.com
-
-Framework: Vite
-
-Output: dist
-
 📊 Demo Screenshots
 
 <img width="914" height="438" alt="Capture" src="https://github.com/user-attachments/assets/bc6097a0-b13e-49d8-926a-e9f533b47628" />
@@ -85,9 +62,6 @@ Output: dist
 👩‍💻 Team
 
 Ayesha Kanwal
-Naurez
+,Naurez
 
 
-How to run (shows you know deployment)
-
-Screenshots (visual proof)
