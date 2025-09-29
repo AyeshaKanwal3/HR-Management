@@ -1,60 +1,93 @@
+🏢 HR Management System
 
-## How can I edit this code?
+A modern HR Management web app built with React + Vite + ShadCN.
+It includes:
+✅ Role-based login (Admin / Employee)
+✅ HR Chatbot (ask about policies, benefits, leave rules)
+✅ Check-in / Check-out with attendance logs
+✅ Leave requests workflow (submit, track, approve/reject)
+✅ Admin dashboard with charts & metrics
+✅ Responsive, professional UI
 
-There are several ways of editing your application.
+🚀 Live Demo: https://your-app.vercel.app
+
+✨ Features
+👩‍💼 Employee
+
+Login as user
+
+Ask questions to HR chatbot
+
+Check-in / Check-out and view recent attendance
+
+Submit leave requests
+
+Track status of leave requests
+
+👑 Admin
+
+Login as admin
+
+Review and approve/reject leave requests
+
+View all employee requests
+
+Analytics dashboard with charts (leave trends, attendance, approval rates)
+
+🛠️ Tech Stack
+
+Frontend: React (Vite + TypeScript)
+
+UI: TailwindCSS + ShadCN UI
+
+Charts: Recharts
+
+Deployment: Vercel
+
+Storage: LocalStorage (demo mode)
+
+🚀 Getting Started
+
+Clone the repo:
+
+git clone https://github.com/yourname/hr-management-system.git
+cd hr-management-system
 
 
-**Use your preferred IDE**
+Install dependencies:
+
+npm install
 
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Run locally:
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 
+Build for production:
 
-## Can I connect a custom domain to my Lovable project?
+npm run build
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Deploy to Vercel:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Import repo on vercel.com
+
+Framework: Vite
+
+Output: dist
+
+📊 Demo Screenshots
+
+<img width="914" height="438" alt="Capture" src="https://github.com/user-attachments/assets/bc6097a0-b13e-49d8-926a-e9f533b47628" />
+
+
+👩‍💻 Team
+
+Ayesha Kanwal
+Naurez
+
+
+How to run (shows you know deployment)
+
+Screenshots (visual proof)
